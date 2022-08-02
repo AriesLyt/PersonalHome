@@ -1,0 +1,28 @@
+.myfooter-w {
+    padding: 50px 0px;
+    background: rgba($color: #ffffff, $alpha: 0.9);
+    text-align: center;
+    font-size: 22px;
+    font-family: "Mainfont";
+    letter-spacing: 2px;
+
+    #myfooter-t {
+        margin-top: 40px;
+
+        span {
+            font-size: 50px;
+            margin-right: 20px;
+            line-height: 50px;
+        }
+    }
+
+    #myfooter-l {
+        margin-top: 40px;
+
+        ul {
+            li {
+                margin-bottom: 20px;
+            }
+        }
+    }
+}

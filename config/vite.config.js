@@ -9,7 +9,8 @@ export function setViteconfig() {
                 '@':resolve(__dirname, '../src'),
                 'views':resolve(__dirname, '../src/views'),
                 'comp':resolve(__dirname, '../src/components'),
-                'assets':resolve(__dirname, '../src/assets')
+                'assets':resolve(__dirname, '../src/assets'),
+                'utils':resolve(__dirname, '../src/utils')
             }
         }
     }

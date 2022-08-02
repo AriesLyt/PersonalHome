@@ -6,7 +6,7 @@ import "./index.scss"
 const TopNav: React.FC = () => {
     return (
         <div className="top-w">
-            TopNav
+            {/* TopNav */}
         </div>
     )
 }
